@@ -1,9 +1,9 @@
-## File Structure: Art Connect
+## File Structure: Met Connect
 
 ### Core Jupyter Notebooks
 
-- **`data_setup.ipynb`** – Loads, cleans, and transforms raw CSV data into structured graph components.
-- **`graph_setup.ipynb`** – Constructs the property graph model and exports graph-ready files.
+- **`data_setup.ipynb`** – Loads, cleans, and transforms raw data into CSV files and structured graph components.
+- **`graph_setup.ipynb`** – Constructs the graph model and exports graph-ready files.
 - **`Page_Rank_Algorithm.ipynb`** – Runs the PageRank algorithm to identify influential artists or artworks.
 - **`Closeness_Centrality_Algorithm.ipynb`** – Measures closeness centrality to assess node reachability.
 - **`Louvain_Modularity_Algorithm.ipynb`** – Applies Louvain community detection to uncover clusters in the graph.
